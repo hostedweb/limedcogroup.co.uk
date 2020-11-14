@@ -2,6 +2,5 @@
 layout: default
 ---
 
-## Welcome to Limedco Group
+## Limedco Group
 ### This website is Under Construction
-
